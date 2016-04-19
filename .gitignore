@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings/
+target/
+bower_components/
+src/main/resources/static/app/bower_components/
+src/main/resources/static/app/test/node_modules/
